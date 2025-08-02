@@ -20,4 +20,3 @@ To understand the code and how I personally tackled each aspect of the applicati
 (It can be accessed by clicking on the image hyperlink.)
 
 [![homepage](https://i.ibb.co/RpyvWCdQ/21-04-2025-Cover-page-4.png)](https://drive.google.com/file/d/1FnWIbXe3opYxUGsEEoL7w_2Et6X0GkN7 "Medi-Cal Claim Submission Application - Personal implementation")
-
